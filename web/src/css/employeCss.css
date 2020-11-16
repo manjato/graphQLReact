@@ -1,0 +1,30 @@
+h1 {
+    text-align: center !important;
+}
+
+.titre {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.info {
+    padding-bottom: 10px
+}
+
+.experiences {
+    padding-left: 16px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+.experiences i {
+    color: #3c90bd;
+}
+
+.list {
+    cursor: pointer;
+}
+
+.list:hover {
+    color: #3c90bd;
+}
